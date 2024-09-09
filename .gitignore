@@ -1,0 +1,9 @@
+commit.sh
+build/
+test/build/
+compile/
+dist/
+.DS_Store
+**/.DS_Store
+.vscode
+__pycache__
